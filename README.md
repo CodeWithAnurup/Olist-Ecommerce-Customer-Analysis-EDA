@@ -85,7 +85,8 @@ A crucial discovery from grouping repeat rates across all 27 states:
 
 - **Language:** Python 3.10+
 - **Data Manipulation:** `pandas`, `numpy`
-- **Data Visualization:** `seaborn`, `matplotlib`
+- **Data Visualization & Profiling:** `seaborn`, `matplotlib`, `ydata-profiling`
+- **Interactive Report:** `olist_report.html` (Automated HTML profiling report)
 - **Environment:** Jupyter Notebook (`Notebook_EDA.ipynb`)
 
 ---
@@ -100,7 +101,7 @@ A crucial discovery from grouping repeat rates across all 27 states:
 
 2. **Install required packages:**
    ```bash
-   pip install pandas numpy seaborn matplotlib
+   pip install pandas numpy seaborn matplotlib ydata-profiling
    ```
 
 3. **Launch the notebook:**
